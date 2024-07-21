@@ -19,7 +19,7 @@ public class Fibonacci {
 	 		
 	 		
 	 		c =a+b;
-	 		a=b;
+	 		a=b; // WE ARE SWIPE THE NO. HERE 
 	 		b=c;
 	 		System.out.println(c);
 	 		
